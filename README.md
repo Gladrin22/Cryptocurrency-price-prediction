@@ -1,7 +1,7 @@
 # Cryptocurrency-price-prediction
 
 
-#License
+# License
 MIT License
 
 Copyright (c) 2022 Gladrin Gideon Aroul
