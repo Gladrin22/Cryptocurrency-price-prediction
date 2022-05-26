@@ -7,7 +7,7 @@ from fbprophet.plot import plot_plotly
 from plotly import graph_objs as go
 
 
-START = "2020-01-01"    
+START = "2010-01-01"    
 
 TODAY = date.today().strftime("%Y-%m-%d")  
 
@@ -19,7 +19,7 @@ cryptos = ('BTC-USD','ETH-USD','BNB_USD','USDC-USD','DOGE-USD','SHIB-USD','LTC-U
 
 selected_cryptos = st.selectbox('Select Dataset for prediction',cryptos)   
 
-n_years = st.slider("Years of prediction :",1,3)   
+n_years = st.slider("Years of prediction :",1,10)   
 period = n_years * 365
 
 @st.cache
