@@ -2,11 +2,42 @@
 
 # How to Run
 
+
+```bash
+pip install streamlit
+```
+```bash
+pip install fbprophet
+```
+```bash
+pip install yfinance
+```
+```bash
+pip install datetime
+```
+``` bash
+pip install plotly
+```
+or 
+
+``` bash
+pip install -r requirements.txt
+```
+# How to run it or modify it locally ?
+
+Clone this repository or download this repository 
+``` bash
+git clone https://github.com/Gladrin22/Stock-Prediction-Using-Facebook-Prophet
+```
+then go into the folder and use streamlit to run the app locally 
+``` bash
+streamlit run Stock-Prediction-app.py 
 ```
 
-```
 # Demo 
 https://crypto-price-prediction-sg.herokuapp.com/
+
+
 # License
 MIT License
 
@@ -29,3 +60,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/) <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white"/> <img alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
