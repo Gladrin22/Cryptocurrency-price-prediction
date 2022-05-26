@@ -3,12 +3,10 @@
 # How to Run
 
 ```
- python -m venv venv
- source venv/bin/activate
- pip3 install -r requirements.txt
- PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION=python streamlit run *.py
-```
 
+```
+# Demo 
+https://crypto-price-prediction-sg.herokuapp.com/
 # License
 MIT License
 
