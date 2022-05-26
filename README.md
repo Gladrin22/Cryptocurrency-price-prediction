@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 Clone this repository or download this repository 
 ``` bash
-git clone https://github.com/Gladrin22/Stock-Prediction-Using-Facebook-Prophet
+git clone https://github.com/Gladrin22/Cryptocurrency-price-prediction
 ```
 then go into the folder and use streamlit to run the app locally 
 ``` bash
